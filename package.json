@@ -1,0 +1,27 @@
+{
+  "name": "koa-exercise-files",
+  "version": "1.0.0",
+  "description": " this is just for exercise for koajs framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamidhmz/koa-exercise-files.git"
+  },
+  "keywords": [
+    "koajs"
+  ],
+  "author": "hamidreza nasrollahy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamidhmz/koa-exercise-files/issues"
+  },
+  "homepage": "https://github.com/hamidhmz/koa-exercise-files#readme",
+  "dependencies": {
+    "koa": "^2.11.0",
+    "koa-helmet": "^5.2.0",
+    "koa-route": "^3.2.0"
+  }
+}
